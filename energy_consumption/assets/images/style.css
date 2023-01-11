@@ -1,5 +1,5 @@
 :root {
-  --primary: #EFFBFB;
+  --primary: #E2F8F9;
   --secondary: white;
   --highlights: #eda109;
 }
@@ -7,7 +7,7 @@
 body {
   margin: 0;
   padding: 0;
-  color: #F5F3F5;
+  color: #E2F8F9;
   background-color: var(--primary);
   font-family: Arial, sans-serif;
 }
@@ -91,7 +91,7 @@ h1 {
 
 .doc-link:hover {
   border: 1px solid #13070C;
-  background-color: #e3d1ff;
+  background-color: #E2F8F9;
   color: #13070C;
 }
 
@@ -110,7 +110,7 @@ h1 {
 
 .doc-link-download:hover {
   border: 1px solid #13070C;
-  background-color: #e3d1ff;
+  background-color: #E2F8F9;
   color: #13070C;
 }
 
